@@ -1,5 +1,5 @@
 {
-  "app": "dotnet run -p src/EksSample/EksSample.csproj",
+  "app": "python3 app.py",
   "context": {
     "@aws-cdk/core:enableStackNameDuplicates": "true",
     "aws-cdk:enableDiffNoFail": "true",

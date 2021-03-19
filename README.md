@@ -14,9 +14,9 @@ This repo is kloia's list of CDK example codes.
 
 | Language | Sample Count |
 |----------|-------------------------|
-| [Typescript Samples](https://github.com/kloia/aws-cdk-samples/tree/master/typescript) | 1 |
+| [Typescript Samples](https://github.com/kloia/aws-cdk-samples/tree/master/typescript) | 2 |
 | [Python Samples](https://github.com/kloia/aws-cdk-samples/tree/master/python) | - |
-| [.NET Examples](https://github.com/kloia/aws-cdk-samples/tree/master/csharp) | - |
+| [.NET Examples](https://github.com/kloia/aws-cdk-samples/tree/master/csharp) | 1 |
 
 
 ### Official Resources
